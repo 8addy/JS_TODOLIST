@@ -24,3 +24,7 @@ input[type=text]:focus{
 .delete:hover{
 	color: red;
 }
+
+.filter{
+	display: none !important;
+}
