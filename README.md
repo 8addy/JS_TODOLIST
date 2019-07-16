@@ -1,2 +1,2 @@
 # JS Todo List
-Todo list using Javascript
+A simply Todo list using Javascript
